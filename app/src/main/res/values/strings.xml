@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">KotlinBasicSyntax</string>
+    <string name="add_expense">Add Expense</string>
+
+    <string name="font_awesome">fonts/font_awesome-webfont.ttf</string>
+    <string name="rupee_icon">&#xf156;</string>
+    <string name="click">Click</string>
+
+
+    <string-array name="expense_type">
+    <item>Food</item>
+    <item>Petrol</item>
+    <item>Other</item>
+    </string-array>
+</resources>
